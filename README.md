@@ -9,7 +9,7 @@ From looking through the different Neural Networks with the different hyper-para
 The different Neural Networks had each some differences:
 
 ## Neural Network 1
-epochs 100
+epochs 100  <br />
 learning rate 0.01
 2 hidden layers with 6 and 5 neurons
 3 input variables
