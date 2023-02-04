@@ -10,40 +10,40 @@ The different Neural Networks had each some differences:
 
 ## Neural Network 1
 epochs 100  <br />
-learning rate 0.01
-2 hidden layers with 6 and 5 neurons
-3 input variables
-Identity for the output layer function
-MSE loss function
+learning rate 0.01 <br />
+2 hidden layers with 6 and 5 neurons <br />
+3 input variables <br />
+Identity for the output layer function <br />
+MSE loss function <br />
 
 ## Neural Network 2
-epochs 100
-learning rate 0.01
-2 hidden layers with 6 and 5 neurons
-3 input variables
-Sigmoid for the output layer function
-MSE Loss Function
+epochs 100 <br />
+learning rate 0.01 <br />
+2 hidden layers with 6 and 5 neurons <br />
+3 input variables <br />
+Sigmoid for the output layer function <br />
+MSE Loss Function <br />
 
 ## Neural Network 3
-epochs 100
-learning rate 0.01
-2 hidden layers with 6 and 5 neurons
-3 input variables
-Identity for the output layer function
-L1 loss function
+epochs 100 <br />
+learning rate 0.01 <br />
+2 hidden layers with 6 and 5 neurons <br />
+3 input variables <br />
+Identity for the output layer function <br />
+L1 loss function <br />
 
 ## Neural Network 4
-epochs 100
-learning rate 0.01
-2 hidden layers with 6 and 5 neurons
-3 input variables
-Sigmoid for the output layer function
-L1 Loss funtion
+epochs 100 <br />
+learning rate 0.01 <br />
+2 hidden layers with 6 and 5 neurons <br />
+3 input variables <br />
+Sigmoid for the output layer function <br />
+L1 Loss funtion <br />
 
 ## Neural Network 5
-epochs 100
-learning rate 0.005
-3 hidden layers with 6, 6 and 5 neurons
-3 input variables
-Sigmoid for the output layer function
+epochs 100 <br />
+learning rate 0.005 <br />
+3 hidden layers with 6, 6 and 5 neurons <br />
+3 input variables <br />
+Sigmoid for the output layer function <br />
 MSE Loss function
