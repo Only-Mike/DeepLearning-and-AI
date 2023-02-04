@@ -13,7 +13,7 @@ epochs 100
 learning rate 0.01
 2 hidden layers with 6 and 5 neurons
 3 input variables
-Identity for the last-layer function
+Identity for the output layer function
 MSE loss function
 
 ## Neural Network 2
@@ -21,7 +21,7 @@ epochs 100
 learning rate 0.01
 2 hidden layers with 6 and 5 neurons
 3 input variables
-Sigmoid for the last-layer function
+Sigmoid for the output layer function
 MSE Loss Function
 
 ## Neural Network 3
@@ -29,7 +29,7 @@ epochs 100
 learning rate 0.01
 2 hidden layers with 6 and 5 neurons
 3 input variables
-Identity for the last-layer function
+Identity for the output layer function
 L1 loss function
 
 ## Neural Network 4
@@ -37,7 +37,7 @@ epochs 100
 learning rate 0.01
 2 hidden layers with 6 and 5 neurons
 3 input variables
-Sigmoid for the last-layer function
+Sigmoid for the output layer function
 L1 Loss funtion
 
 ## Neural Network 5
@@ -45,5 +45,5 @@ epochs 100
 learning rate 0.005
 3 hidden layers with 6, 6 and 5 neurons
 3 input variables
-Sigmoid for the last-layer function
+Sigmoid for the output layer function
 MSE Loss function
