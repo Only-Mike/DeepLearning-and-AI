@@ -38,7 +38,7 @@ After the training and testing the model it was pushed to HuggingFace as a model
 
 ## Gradio on Huggingface
 For showcase, our model is then deplyed on HuggingFace using Gradio for people to test out <br>
-
+Link to HF --> https://huggingface.co/spaces/Only-Mike/ADHD_QA_Bot
 
 ## Conclusion to QA bot <br>
 Our QA model is working, but gives short answers without giving additional information to the one using the model. <br>
