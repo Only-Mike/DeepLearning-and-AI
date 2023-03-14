@@ -1,6 +1,20 @@
 # DeepLearning-and-AI 
-The Group consists of Lina, Snorre and Mike. 
+
+ 
+Intro
+---------------
+<br> The Group consists of Lina, Snorre and Mike.
 <br>
+<br> 
+You can find more detailed explainations of the individual assignment from README's in each assigment folder.
+<br>
+Each Assignment is created in Google Colab and has a Google Colab button in the top left corner. 
+<br>
+Each assignment differs in difficulty but is somehow in order from assignment 1 being the "easiest" and assignment 4 being the most complicated. 
+<br>
+Furthermore assigment 4 can be found and tested on HuggingFace following this link --> https://huggingface.co/spaces/Only-Mike/ADHD_QA_Bot
+
+
 <br>
 Assignment 1
 ---------------
