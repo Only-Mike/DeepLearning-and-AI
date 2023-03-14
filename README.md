@@ -12,10 +12,12 @@ The dataset used for this is the penguin dataset from https://github.com/allison
 
 Assignment 2
 ---------------
+<br>
+Assignment 2 consist of a CNN to showcase how a relatively simple Convolutional Network works and a LSTM network with the attempt to predict the weather from a weather dataset.
+<br> 
+The dataset used for the CNN is MNIST dataet. For the LSTM data we have used a weather dataset containing weather from ????
+<br>
 
-<br>
-<br>
-<br>
 Assignment 3
 ---------------
 
