@@ -13,9 +13,8 @@ Each Assignment is created in Google Colab and has a Google Colab button in the 
 Each assignment differs in difficulty but is somehow in order from assignment 1 being the "easiest" and assignment 4 being the most complicated. 
 <br>
 Furthermore assigment 4 can be found and tested on HuggingFace following this link --> https://huggingface.co/spaces/Only-Mike/ADHD_QA_Bot
-
-
 <br>
+
 Assignment 1
 ---------------
 <br> 
@@ -40,6 +39,7 @@ Assignment 3
 <br>
 <br>
 <br>
+
 Assignment 4
 ---------------
 
