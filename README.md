@@ -42,4 +42,10 @@ Assignment 3
 
 Assignment 4
 ---------------
+Assignment 4 is a QA bot using a fine-tuned model. The model is fine-tuned on a ADHD dataset generated from ChatGPT. The QA bot is hosted in a HuggingFace space.
+<br>
+"Original" model --> https://huggingface.co/distilbert-base-uncased
+Fine-tuned model --> https://huggingface.co/Only-Mike/ADHD_Test_qa_model
+Space            --> https://huggingface.co/spaces/Only-Mike/ADHD_QA_Bot
+
 
