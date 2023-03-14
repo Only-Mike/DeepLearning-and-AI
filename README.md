@@ -35,9 +35,10 @@ The dataset can be found on Kaggle at https://www.kaggle.com/datasets/poojag718/
 
 Assignment 3
 ---------------
-
 <br>
+Assignment 3 is a semantic search model created with SBERT. The model outputs the sentence with the most similarity to the input sentence. 
 <br>
+The dataset is created using randormwordgenerator.com and ChatGPT.
 <br>
 
 Assignment 4
