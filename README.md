@@ -15,7 +15,9 @@ Assignment 2
 <br>
 Assignment 2 consist of a CNN to showcase how a relatively simple Convolutional Network works and a LSTM network with the attempt to predict the weather from a weather dataset.
 <br> 
-The dataset used for the CNN is MNIST dataet. For the LSTM data we have used a weather dataset containing weather for eachh month from 2000 until 2020
+The dataset used for the CNN is MNIST dataet. For the LSTM data we have used a weather dataset containing weather for eachh month from 2000 until 2020 
+<br> 
+The dataset can be found on Kaggle at https://www.kaggle.com/datasets/poojag718/rainfall-timeseries-data?fbclid=IwAR2pFvjUGGDVxqHG3ETGTcUxkz_xE4l2T--HO6nFFf78mHq6u_egLEJX8iw
 <br>
 
 Assignment 3
